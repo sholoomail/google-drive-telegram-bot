@@ -14,8 +14,8 @@ services:
         sync: false
       - key: API_HASH 
         sync: false
-      - key: SESSION_NAME 
-        value: sholoogoogledriveuploader
+      - key: SUPPORT_CHAT_LINK 
+        value: https://khatmesalawat.ir/100269/
       - key: DOWNLOAD_DIRECTORY 
         value: ./DOWNLOADS/
       - key: SUDO_USERS 
@@ -27,4 +27,5 @@ services:
       - key: G_DRIVE_CLIENT_SECRET 
         sync: false
       - key: ENV 
-        value: True
+        value: ANYTHING
+        
